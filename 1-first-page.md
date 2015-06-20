@@ -4,7 +4,7 @@ Below are a few simple examples of embedding content with markdown, starting wit
 
 ![This is an image embed](images/500x150.gif)
 
-## Heading 2
+## Heading TWOOOOO
 
 This is a standard paragraph, containing a **bolded word** followed by an _italicized word_, a [link](http://example.com), and a  `monospaced word` (which is typically used for referencing a piece of code).
 
